@@ -1,6 +1,6 @@
 # smart-mirror
 
-The goal of this project is to make software that will go in a Raspberry Pi 3. Raspberry Pi will be used to make a smart mirror that will be given to my friend for his birthday. Will make the mirror abstract enough that anyone can populate the data with information about hs/her friends/family.
+The goal of this project is to make software that will go in a Raspberry Pi 3. Raspberry Pi will be used to make a smart mirror that will be given to my friend for his birthday. Will make the mirror abstract enough that anyone can populate the data with information about his/her friends/family.
 
 Functionaility:
 
