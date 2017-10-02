@@ -18,19 +18,15 @@ Specific to birthday present (optional):
 
 5. Will have a button that sends input to the raspbery pi. Once pressed it will display several of the images from his one second a day video floating across the mirror.
 
-Pipeline:
-    - reminders
-    - alarms
-    - weather information
-    - text messaging (to predetermined number)
-    - Design and create database: 10/1 ✓ (completed on time)
-    - Write Model for data: 10/8
-    - Create GUI to display data: 10/15
-    - Create Controller for Model and View: 10/22
-    - Install software into Raspberry Pi: 10/29
-    - Get and put together all hardware components(monitor, frame, mirror): 11/5
-    - Finish Testing: 11/12
-    - Give Present: 11/22
+    Pipeline:
+        - Design and create database: 10/1 ✓ (completed on time)
+        - Write Model for data: 10/8
+        - Create GUI to display data: 10/15
+        - Create Controller for Model and View: 10/22
+        - Install software into Raspberry Pi: 10/29
+        - Get and put together all hardware components(monitor, frame, mirror): 11/5
+        - Finish Testing: 11/12
+        - Give Present: 11/22
 
 10/1 Notes:
 There are currently Three tables:
