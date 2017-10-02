@@ -19,7 +19,7 @@ Specific to birthday present (optional):
 5. Will have a button that sends input to the raspbery pi. Once pressed it will display several of the images from his one second a day video floating across the screen.
 
 Pipeline:
-Design and create database: 10/1
+Design and create database: 10/1 ✓ (completed on time)
 Write Model for data: 10/8
 Create GUI to display data: 10/15
 Create Controller for Model and View: 10/22
@@ -27,4 +27,12 @@ Install software into Raspberry Pi: 10/29
 Get and put together all hardware components(monitor, frame, mirror): 11/5
 Finish Testing: 11/12
 Give Present: 11/22
+
+10/1 Notes:
+There are currently Three tables:
+    1. user(id(pk), first_name(varchar), last_name(varchar), birthday(date))
+    2. reminder(id(pk), reminder_dateime(datetime), reminder(varchar))
+    3. smart_album(id(pk), date_taken (date), year_taken(year), file_path(varchar))
+Completed basic tables needed.
+Things that I could add later: If I want the ability to have multiple users in the mirror I could add a foreign key in the reminder and smart_album tables to the user table.
 
