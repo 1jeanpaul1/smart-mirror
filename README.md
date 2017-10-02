@@ -16,7 +16,7 @@ Functionaility:
 Specific to birthday present (optional):
     My friend does a one second a day video recording. Then releases the edited footage a week after his birthday. Will write software that takes a sreenshot of every second in the video and then use those images to show him what he did one year ago in the mirror.
 
-5. Will have a button that sends input to the raspbery pi. Once pressed it will display several of the images from his one second a day video floating across the screen.
+5. Will have a button that sends input to the raspbery pi. Once pressed it will display several of the images from his one second a day video floating across the mirror.
 
 Pipeline:
 Design and create database: 10/1 ✓ (completed on time)
