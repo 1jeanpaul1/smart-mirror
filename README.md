@@ -7,7 +7,7 @@ Functionaility:
 1. Show weather and time
 2. Show important news that occured recently
 3. Will tell user how he/she looks when walking infront of the mirror
-4. Will install a audio card and microphone to raspberry pi for voice commands
+4. Will install an audio card and microphone to raspberry pi for voice commands
     - reminders
     - alarms
     - weather information
