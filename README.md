@@ -19,6 +19,10 @@ Specific to birthday present (optional):
 5. Will have a button that sends input to the raspbery pi. Once pressed it will display several of the images from his one second a day video floating across the mirror.
 
 Pipeline:
+    - reminders
+    - alarms
+    - weather information
+    - text messaging (to predetermined number)
     - Design and create database: 10/1 ✓ (completed on time)
     - Write Model for data: 10/8
     - Create GUI to display data: 10/15
