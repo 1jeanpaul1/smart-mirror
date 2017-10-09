@@ -20,7 +20,7 @@ Specific to birthday present (optional):
 
     Pipeline:
         - Design and create database: 10/1 ✓ (completed on time)
-        - Write Model for data: 10/8
+        - Write Model for data: 10/12
         - Create GUI to display data: 10/15
         - Create Controller for Model and View: 10/22
         - Install software into Raspberry Pi: 10/29
