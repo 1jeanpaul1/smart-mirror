@@ -36,3 +36,5 @@ There are currently Three tables:
 Completed basic tables needed.
 Things that I could add later: If I want the ability to have multiple users in the mirror I could add a foreign key in the reminder and smart_album tables to the user table.
 
+11/4 Notes:
+    As in any project a lot of things change. I realized that there was already an open sourced smart mirror application. So as to not reinvent the wheel I will be writing modules for the Open Sourced Smart Mirror. It's github is right here: https://github.com/MichMich/MagicMirror.
