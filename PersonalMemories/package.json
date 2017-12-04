@@ -1,0 +1,11 @@
+{
+  "name": "magicmirror-personal-memories",
+  "version": "0.1.1",
+  "description": "Shows Images and/or videos submitted by peopple",
+  "main": "PersonalMemories.js",
+  "author": "Jean Paul Torre",
+  "license": "MIT",
+  "devDependencies": {
+    "sqlite3": "latest",
+  }
+}
