@@ -25,3 +25,8 @@ Personal Memories
 
 Functionality: I asked my friend's family and friends to send me memories in video or image format to display in the mirror. This Module for the MagicMirror open sourced project displays images/videos in a rotating carousel format.
 
+-----------------------------
+
+Day Memories
+
+Funcitonality: This is where the video clips parsed from parse_video.py and the database created in MemoryDatabase.py come together. Day Memories queries the database for memories(videos) that occured on this date and displays one after another. 
