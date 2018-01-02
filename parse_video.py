@@ -64,15 +64,15 @@ class ParseVideo:
             try:
                 current_frame = clip.get_frame(current_frame_second)
                 next_frame = clip.get_frame(next_frame_second)
-                current_rgb = rgbCount(current_frame)
-                next_rgb = rgbCount(next_frame)
+                current_rgb = self.rgbCount(current_frame)
+                next_rgb = self.rgbCount(next_frame)
                 red_difference = abs(current_rgb[0] - next_rgb[0])
                 green_difference = abs(current_rgb[1] - next_rgb[1])
                 blue_difference = abs(current_rgb[2] - next_rgb[2])
                 total_difference = red_difference + green_difference + blue_difference
                 print("going...")
                 print(end_clip - start_clip)
-                if different_clip(total_difference) and end_clip - start_clip >= 0.5:
+                if self.different_clip(total_difference) and end_clip - start_clip >= 0.5:
                     print("***DIFFERENCE***")
                     print(total_difference)
                     print("New clip...")
